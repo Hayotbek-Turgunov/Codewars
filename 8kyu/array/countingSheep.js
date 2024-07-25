@@ -10,3 +10,5 @@
   false, false, true,  true] */
 
 const countSheeps = (sheep) => sheep.filter((value) => value === true).length;
+
+/**Time: 741ms */
