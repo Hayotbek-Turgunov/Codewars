@@ -11,6 +11,6 @@ function invert(array) {
   });
 }
 
-invert([1, 2, 3, 4, 5]);
+invert([1, -2, 3, -4, 5]);
 
 //Time 1026ms
